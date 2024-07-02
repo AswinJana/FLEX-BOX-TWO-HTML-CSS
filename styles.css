@@ -1,0 +1,37 @@
+
+#outerbox {
+    display: flex;
+    flex-wrap: wrap;
+}
+#nav {
+    width: 20%;
+    background-color: rgba(11, 19, 19, 0.301);
+    padding-bottom: 400px;
+}
+#nav2 { 
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    background-color: rgba(45, 226, 226, 0.301);
+    
+}
+#header {
+    width: 100%;
+    background-color: rgba(45, 226, 226, 0.301);
+    padding-bottom: 100px;
+}
+#article {
+    width: 80%;
+    background-color: rgba(245, 247, 241, 0.87);
+    padding-bottom: 300px;
+}
+#aside {
+    width: 20%;
+    background-color: rgba(203, 248, 99, 0.87);
+    padding-bottom: 300px;
+}
+#footer {
+    width: 100%;
+    background-color: rgba(66, 243, 42, 0.87);
+    padding-bottom: 100px;
+}
